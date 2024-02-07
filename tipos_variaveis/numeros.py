@@ -11,3 +11,4 @@ print("Real com ponto flutuante =", numero_real)
 print("Tipo = ", type(numero_inteiro))
 print("Tipo = ", type(numero_real))
 
+
